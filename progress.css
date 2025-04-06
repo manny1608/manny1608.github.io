@@ -8,12 +8,6 @@
     box-shadow: 0 2px 4px rgba(0,0,0,0.1);
 }
 
-@media (max-width: 768px) {
-    #progress-container {
-        padding: 10px;
-    }
-}
-
 #weight-container {
     display: flex;
     gap: 40px 10px;
@@ -59,6 +53,11 @@
 }
 
 @media (max-width: 768px) {
+    #progress-container {
+        padding: 10px;
+        width: 90%;
+    }
+
     #weight-container {
         justify-content: start;
     }
@@ -84,8 +83,14 @@
 }
 
 @media (max-width: 480px) {
-    .weight-item {
+    #weight-container {
+        gap: 10px;
         width: 100%;
+    }
+
+    .weight-item {
+        width: 45%;
         height: 150px;
+        margin-bottom: 0px;
     }
 }
