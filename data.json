@@ -236,6 +236,10 @@
             {
                 "time": "Breakfast",
                 "image": "./april/6/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/6/lunch.jpeg"
             }
         ]
     }
