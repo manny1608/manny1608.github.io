@@ -1,0 +1,124 @@
+#progress-container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.day-section {
+    border: 1px solid #ddd;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    overflow: hidden;
+    height: 450px;
+}
+
+.item {
+    transition: transform 0.2s ease-in-out; 
+}
+
+.item:hover {
+    transform: scale(1.25); 
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.date {
+    text-align: center;
+    padding: 10px;
+    background-color: #f5f5f5;
+    font-weight: bold;
+}
+
+.content-section {
+    display: flex;
+    margin-top: 10px;
+    padding: 15px;
+    height: 80%;
+}
+
+/* Progress Section (25% width) */
+.progress-section {
+    width: 25%;
+    padding-right: 15px;
+    border-right: 1px solid #ddd;
+}
+
+.progress-item {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    height: 100%;
+}
+
+.progress-item img {
+    width: 100%;
+    height: 90%;
+    border-radius: 6px;
+    object-fit: cover;
+}
+
+/* Food Section (75% width) */
+.food-section {
+    width: 100%;
+    padding-left: 15px;
+    display: flex;
+    gap: 15px;
+}
+
+.meal-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 6px;
+    gap: 10px;
+    width: 33%;
+    height: 100%;
+}
+
+.meal-item img {
+    width: 100%;
+    height: 90%;
+    border-radius: 6px;
+    gap: 15px;
+}
+
+.meal-item span {
+    font-weight: bold;
+    color: #666;
+    margin-bottom: 5px;
+}
+
+.meal-item p {
+    margin: 0;
+    font-size: 0.9em;
+    color: #333;
+}
+
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+    .content-section {
+        flex-direction: column;
+    }
+    
+    .progress-section {
+        width: 100%;
+        border-right: none;
+        border-bottom: 1px solid #ddd;
+        padding: 15px 0;
+        margin-bottom: 15px;
+    }
+    
+    .food-section {
+        width: 100%;
+        padding-left: 0;
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .food-section {
+        grid-template-columns: 1fr;
+    }
+}

@@ -1,0 +1,242 @@
+[
+    {
+        "date": "March 26, 2025",
+        "progress": {
+            "weight": 89.8,
+            "image": "./march/26/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./march/26/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./march/26/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./march/26/dinner.jpeg"
+            }
+        ]    
+    },
+    {
+        "date": "March 27, 2025",
+        "progress": {
+            "weight": 89.6,
+            "image": "./march/27/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./march/27/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./march/27/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./march/27/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "March 28, 2025",
+        "progress": {
+            "weight": 89.2,
+            "image": "./march/28/weight.jpeg"
+        },  
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./march/28/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./march/28/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./march/28/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "March 29, 2025",
+        "progress": {
+            "weight": 88.9,
+            "image": "./march/29/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./march/29/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./march/29/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./march/29/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "March 30, 2025",
+        "progress": {
+            "weight": 88.9,
+            "image": "./march/30/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./march/30/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./march/30/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./march/30/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "March 31, 2025",
+        "progress": {
+            "weight": 88.9,
+            "image": "./march/31/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./march/31/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./march/31/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./march/31/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "April 1, 2025",
+        "progress": {
+            "weight": 88.2,
+            "image": "./april/1/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/1/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/1/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/1/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "April 2, 2025",
+        "progress": {
+            "weight": 88.1,
+            "image": "./april/2/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/2/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/2/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/2/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "April 3, 2025",
+        "progress": {
+            "weight": 88.3,
+            "image": "./april/3/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/3/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/3/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/3/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "April 4, 2025",
+        "progress": {
+            "weight": 88.2,
+            "image": "./april/4/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/4/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/4/lunch.jpeg"
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/4/dinner.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "April 5, 2025",
+        "progress": {
+            "weight": 87.8,
+            "image": "./april/5/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/5/breakfast.jpeg"
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/5/lunch.jpeg"
+            }
+        ]
+    },
+    {
+        "date": "April 6, 2025",
+        "progress": {
+            "weight": 87.1,
+            "image": "./april/6/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/6/breakfast.jpeg"
+            }
+        ]
+    }
+]
