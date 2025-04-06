@@ -121,4 +121,8 @@
     .food-section {
         grid-template-columns: 1fr;
     }
+
+    .day-section {
+        height: 250px;
+    }
 }
