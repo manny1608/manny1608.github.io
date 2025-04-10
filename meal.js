@@ -1,3 +1,29 @@
+const initialAuthData = localStorage.getItem('authData');
+if (!initialAuthData) {
+    window.location.href = './index.html';
+}
+
+setInterval(() => {
+    const authData = JSON.parse(localStorage.getItem('authData'));
+    if (!authData) {
+        window.location.href = './index.html';
+        return;
+    }
+
+    const currentTime = new Date().getTime();
+    const thirtyMinutes = 30 * 60 * 1000;
+
+    if (currentTime - authData.timestamp > thirtyMinutes) {
+        localStorage.removeItem('authData');
+        window.location.href = './index.html';
+    }
+}, 30000); // 30 seconds
+
+function logout() {
+    localStorage.removeItem('authData');
+    window.location.href = './index.html';
+}
+
 function createProgressSection(progress) {
     let progressImage = document.createElement('img');
     progressImage.src = progress.image;
