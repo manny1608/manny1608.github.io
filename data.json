@@ -8,15 +8,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./march/26/breakfast.jpeg"
+                "image": "./march/26/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./march/26/lunch.jpeg"
+                "image": "./march/26/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./march/26/dinner.jpeg"
+                "image": "./march/26/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]    
     },
@@ -29,15 +45,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./march/27/breakfast.jpeg"
+                "image": "./march/27/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./march/27/lunch.jpeg"
+                "image": "./march/27/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./march/27/dinner.jpeg"
+                "image": "./march/27/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -50,15 +82,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./march/28/breakfast.jpeg"
+                "image": "./march/28/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./march/28/lunch.jpeg"
+                "image": "./march/28/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./march/28/dinner.jpeg"
+                "image": "./march/28/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -71,15 +119,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./march/29/breakfast.jpeg"
+                "image": "./march/29/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./march/29/lunch.jpeg"
+                "image": "./march/29/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./march/29/dinner.jpeg"
+                "image": "./march/29/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -92,15 +156,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./march/30/breakfast.jpeg"
+                "image": "./march/30/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./march/30/lunch.jpeg"
+                "image": "./march/30/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./march/30/dinner.jpeg"
+                "image": "./march/30/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -113,15 +193,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./march/31/breakfast.jpeg"
+                "image": "./march/31/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./march/31/lunch.jpeg"
+                "image": "./march/31/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./march/31/dinner.jpeg"
+                "image": "./march/31/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -134,15 +230,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./april/1/breakfast.jpeg"
+                "image": "./april/1/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./april/1/lunch.jpeg"
+                "image": "./april/1/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./april/1/dinner.jpeg"
+                "image": "./april/1/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -155,15 +267,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./april/2/breakfast.jpeg"
+                "image": "./april/2/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./april/2/lunch.jpeg"
+                "image": "./april/2/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./april/2/dinner.jpeg"
+                "image": "./april/2/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -176,15 +304,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./april/3/breakfast.jpeg"
+                "image": "./april/3/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./april/3/lunch.jpeg"
+                "image": "./april/3/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./april/3/dinner.jpeg"
+                "image": "./april/3/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -197,15 +341,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./april/4/breakfast.jpeg"
+                "image": "./april/4/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./april/4/lunch.jpeg"
+                "image": "./april/4/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             },
             {
                 "time": "Dinner",
-                "image": "./april/4/dinner.jpeg"
+                "image": "./april/4/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -218,11 +378,31 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./april/5/breakfast.jpeg"
+                "image": "./april/5/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./april/5/lunch.jpeg"
+                "image": "./april/5/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/5/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -235,12 +415,150 @@
         "food": [
             {
                 "time": "Breakfast",
-                "image": "./april/6/breakfast.jpeg"
+                "image": "./april/6/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
             },
             {
                 "time": "Lunch",
-                "image": "./april/6/lunch.jpeg"
+                "image": "./april/6/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/6/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
+    },
+    {
+        "date": "April 7, 2025",
+        "progress": {
+            "weight": 87.1,
+            "image": "./april/7/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/7/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/7/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/7/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "April 8, 2025",
+        "progress": {
+            "weight": 87.6,
+            "image": "./april/8/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/8/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/8/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/8/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            }
+        ]   
+    },
+    {
+        "date": "April 9, 2025",
+        "progress": {
+            "weight": 87.2,
+            "image": "./april/9/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/9/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/9/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/9/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            }
+        ]
+    },
+    {
+        "date": "April 10, 2025",
+        "progress": {
+            "weight": 87.5,
+            "image": "./april/10/weight.jpeg"
+        }
     }
 ]
