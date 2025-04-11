@@ -34,7 +34,7 @@
                     "1 cup of vegetables"
                 ]
             }
-        ]    
+        ]
     },
     {
         "date": "March 27, 2025",
@@ -78,7 +78,7 @@
         "progress": {
             "weight": 89.2,
             "image": "./march/28/weight.jpeg"
-        },  
+        },
         "food": [
             {
                 "time": "Breakfast",
@@ -515,7 +515,7 @@
                     "1 cup of vegetables"
                 ]
             }
-        ]   
+        ]
     },
     {
         "date": "April 9, 2025",
@@ -559,6 +559,27 @@
         "progress": {
             "weight": 87.5,
             "image": "./april/10/weight.jpeg"
-        }
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/10/breakfast.jpeg",
+                "ingredients": [
+                    "1 cup of oatmeal",
+                    "1 cup of milk",
+                    "1 cup of sugar",
+                    "1 cup of honey"
+                ]
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/10/lunch.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
+            }
+        ]
     }
 ]
