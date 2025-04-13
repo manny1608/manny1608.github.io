@@ -590,6 +590,15 @@
                     "1 cup of chicken",
                     "1 cup of vegetables"
                 ]
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/10/dinner.jpeg",
+                "ingredients": [
+                    "1 cup of rice",
+                    "1 cup of chicken",
+                    "1 cup of vegetables"
+                ]
             }
         ]
     },
@@ -603,6 +612,16 @@
             {
                 "time": "Breakfast",
                 "image": "./april/11/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/11/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/11/dinner.jpeg",
                 "ingredients": []
             }
         ]
@@ -622,6 +641,30 @@
             {
                 "time": "Lunch",
                 "image": "./april/12/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/12/dinner.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 13, 2025",
+        "progress": {
+            "weight": 87.4,
+            "image": "./april/13/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/13/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/13/lunch.jpeg",
                 "ingredients": []
             }
         ]
