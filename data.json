@@ -10,28 +10,39 @@
                 "time": "Breakfast",
                 "image": "./march/26/breakfast.jpeg",
                 "ingredients": [
-                    "1 cup of oatmeal",
-                    "1 cup of milk",
-                    "1 cup of sugar",
-                    "1 cup of honey"
+                    "1 small cup of blue berries",
+                    "1 slice of bitter caurd",
+                    "1 inch ginger",
+                    "1 wallnut",
+                    "2 badam",
+                    "2 pistha",
+                    "1 tea spoon watermelon seeds",
+                    "1 tea spoon pumpkin seeds",
+                    "1 tea spoon sunflower seeds"
+                ],
+                "procedure": [
+                    "Grind all the ingredients and filter the juice",
+                    "Add 1 tea spoon of wheatgrass powder and 1/2 tea spoon of lemon juice"
                 ]
             },
             {
                 "time": "Lunch",
                 "image": "./march/26/lunch.jpeg",
                 "ingredients": [
-                    "1 cup of rice",
-                    "1 cup of chicken",
-                    "1 cup of vegetables"
+                    "3 tablespoons of red rice",
+                    "4 tablespoons of channa",
+                    "3 tablespoons of ladies finger"
                 ]
             },
             {
                 "time": "Dinner",
                 "image": "./march/26/dinner.jpeg",
                 "ingredients": [
-                    "1 cup of rice",
-                    "1 cup of chicken",
-                    "1 cup of vegetables"
+                    "Vegetables - capsicum, cabbage, carrot, beans, onion, tomatoes, corn and beatrooot",
+                    "2 tablespoons of ghee",
+                    "2 tablespoon of oats",
+                    "Mint chutney - 1 cup of mint leave, 1 tablespoon of curd, giner, chilli, lemon juice, wallnut, 1 teaspoon pumpkin and watermelon seeds",
+                    "Thins slices of cucumber"
                 ]
             }
         ]
@@ -579,6 +590,39 @@
                     "1 cup of chicken",
                     "1 cup of vegetables"
                 ]
+            }
+        ]
+    },
+    {
+        "date": "April 11, 2025",
+        "progress": {
+            "weight": 87.7,
+            "image": "./april/11/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/11/breakfast.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 12, 2025",
+        "progress": {
+            "weight": 87.7,
+            "image": "./april/12/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/12/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/12/lunch.jpeg",
+                "ingredients": []
             }
         ]
     }
