@@ -666,6 +666,35 @@
                 "time": "Lunch",
                 "image": "./april/13/lunch.jpeg",
                 "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/13/dinner.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 14, 2025",
+        "progress": {
+            "weight": 87.0,
+            "image": "./april/14/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/14/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/14/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/14/dinner.jpeg",
+                "ingredients": []
             }
         ]
     }
