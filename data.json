@@ -765,6 +765,42 @@
         "progress": {
             "weight": 86.0,
             "image": "./april/18/weight.jpeg"
-        }
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/18/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/18/lunch.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 19, 2025",
+        "progress": {
+            "weight": 86.0,
+            "image": "./april/19/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/19/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/19/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/19/dinner.jpeg",
+                "ingredients": []
+            }
+        ]
     }
 ]

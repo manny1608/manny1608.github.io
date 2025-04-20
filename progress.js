@@ -69,7 +69,7 @@ function createWeightChart(data) {
                     padding: 10,
                     displayColors: false,
                     callbacks: {
-                        label: function(context) {
+                        label: function (context) {
                             return `Weight: ${context.raw} kg`;
                         }
                     }
@@ -82,7 +82,7 @@ function createWeightChart(data) {
                         color: 'rgba(0, 0, 0, 0.1)'
                     },
                     ticks: {
-                        callback: function(value) {
+                        callback: function (value) {
                             return parseFloat(value).toFixed(2) + ' kg';
                         }
                     }
@@ -99,12 +99,13 @@ function createWeightChart(data) {
     return chart;
 }
 
-function populateWeightStats(image, date) {
+function populateWeightStats(image, date, weight) {
     const container = document.createElement('div');
     container.classList.add('item', 'weight-item');
 
     let progressImage = document.createElement('img');
     progressImage.src = image;
+    progressImage.alt = 'Weight ' + ' - ' + weight + ' kg';
 
     let progressWeight = document.createElement('span');
     progressWeight.textContent = date;
@@ -118,7 +119,7 @@ function populateWeightStats(image, date) {
 function displayWeightStats(data) {
     const container = document.getElementById('weight-container');
     data.forEach(day => {
-        const weightItem = populateWeightStats(day.progress.image, day.date);
+        const weightItem = populateWeightStats(day.progress.image, day.date, day.progress.weight);
         container.appendChild(weightItem);
     });
 }
@@ -130,7 +131,7 @@ async function populateProgress(data) {
         displayWeightStats(data);
     } catch (error) {
         console.error('Error:', error);
-        document.getElementById('progress-container').innerHTML = 
+        document.getElementById('progress-container').innerHTML =
             '<p>Error loading data. Please try again later.</p>';
     }
 }
