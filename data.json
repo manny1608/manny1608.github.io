@@ -802,5 +802,32 @@
                 "ingredients": []
             }
         ]
+    },
+    {
+        "date": "April 20, 2025",
+        "progress": {
+            "weight": 85.8,
+            "image": "./april/20/weight.jpeg"
+        },
+        "food": []
+    },
+    {
+        "date": "April 21, 2025",
+        "progress": {
+            "weight": 85.9,
+            "image": "./april/21/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/21/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/21/lunch.jpeg",
+                "ingredients": []
+            }
+        ]
     }
 ]
