@@ -860,7 +860,36 @@
                 "time": "Breakfast",
                 "image": "./april/23/breakfast.jpeg",
                 "ingredients": []
-            }                
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/23/lunch.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 24, 2025",
+        "progress": {
+            "weight": 85.6,
+            "image": "./april/24/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/24/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/24/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/24/dinner.jpeg",
+                "ingredients": []
+            }
         ]
     }
 ]
