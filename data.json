@@ -891,5 +891,120 @@
                 "ingredients": []
             }
         ]
+    },
+    {
+        "date": "April 25, 2025",
+        "progress": {
+            "weight": 85.3,
+            "image": "./april/25/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/25/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/25/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/25/dinner.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 26, 2025",
+        "progress": {
+            "weight": 85.4,
+            "image": "./april/26/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/26/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/26/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/26/dinner.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 27, 2025",
+        "progress": {
+            "weight": 84.9,
+            "image": "./april/27/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/27/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/27/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/27/dinner.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 28, 2025",
+        "progress": {
+            "weight": 85.2,
+            "image": "./april/28/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/28/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/28/lunch.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Dinner",
+                "image": "./april/28/dinner.jpeg",
+                "ingredients": []
+            }
+        ]
+    },
+    {
+        "date": "April 29, 2025",
+        "progress": {
+            "weight": 85.4,
+            "image": "./april/29/weight.jpeg"
+        },
+        "food": [
+            {
+                "time": "Breakfast",
+                "image": "./april/29/breakfast.jpeg",
+                "ingredients": []
+            },
+            {
+                "time": "Lunch",
+                "image": "./april/29/lunch.jpeg",
+                "ingredients": []
+            }
+        ]
     }
 ]
